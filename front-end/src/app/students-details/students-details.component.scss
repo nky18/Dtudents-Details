@@ -1,0 +1,53 @@
+.example-form {
+    min-width: 80%;
+    max-width: 100%;
+    width: 100%;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+  mat-card{
+    width: 30%;
+    position: relative;
+    // left: 10%;
+    margin-left: 33%;
+     margin-top: 5%;
+  }
+
+ .submit{
+    margin-top: 5%;
+ }
+ .back{
+    left: 50%;
+ }
+ 
+.male{
+   left: 10%;
+}
+mat-radio-button{
+    justify-content: space-around;
+    display: flex;
+    margin-top: 2%;
+}
+mat-card-header {
+  background-color: #1d5961;
+  width: 98%;
+  border-radius: 39px;
+  margin-left: 7px;
+  text-align: center;
+  height: 56px;
+}
+
+h2.head {
+    color: white;
+    //  margin: 6px 100px;
+    // align-items: center;
+    // justify-content: center;
+    display: flex;
+    text-align: center;
+    font-size: 41px;
+    padding: 9px;
+}
+
+

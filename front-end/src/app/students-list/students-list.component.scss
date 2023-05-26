@@ -1,0 +1,29 @@
+.mat-toolbar-row, .mat-toolbar-single-row {
+ height: 34px; 
+}
+h2.list {
+    margin-left: 407px;
+    font-size: 24px;
+}
+.mat-toolbar.mat-primary {
+    background: #1d5961;
+    color: #fff;
+}   
+
+.mat-toolbar-multiple-rows {
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: column;
+    width: 85%;
+    align-items: center;
+    margin-left: 100px;
+}
+.mat-toolbar-multiple-rows {
+    min-height: 45px;
+}
+mat-table.mat-table.cdk-table {
+    width: 75%;
+    align-items: center;
+    margin-left: 156px;
+}
+
